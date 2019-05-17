@@ -6,5 +6,5 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Eatery.create(name:"すき家",food:"炭水化物")
-Eatery.create(name:"ガスト",food:"野菜")
+Eatery.create(name:'すき家',food:'炭水化物')
+Eatery.create(name:'ガスト',food:'野菜')
