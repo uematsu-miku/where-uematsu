@@ -1,6 +1,6 @@
 class CreateEateries < ActiveRecord::Migration[5.2]
   def change
-    create_table :eataries do |t|
+    create_table :eateries do |t|
       t.string :name
       t.string :food
 
